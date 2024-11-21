@@ -1,14 +1,14 @@
 ---
-title: "Expert advice from experts"
+title: "Use This Template for Reports"
 author:
-- name: Professor Marie Curie
-  degrees: Nobel Prize, PhD
-  email: mcurie.notreal@gmail.com
-- name: Dr Pierre Curie
-  degrees: Nobel Prize, PhD
-phone: (03) 9905 2478
-email: BusEco-Econometrics@monash.edu
-organization: Acme Corporation
+- name: Professor X
+  degrees: PhD
+  email: prof@yale.edu
+- name: Professor Y
+  degrees: PhD
+phone: (203) 456 7890
+email: lillian@yale.edu
+organization: Yale University
 bibliography: references.bib
 format: report-pdf
 ---

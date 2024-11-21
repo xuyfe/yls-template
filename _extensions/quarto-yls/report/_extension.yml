@@ -36,4 +36,4 @@ contributes:
         - "title.tex"
       format-resources:
         - yls_shield.png
-        - yale_lillian_banner.png
+        - yale_blue_eps.eps
